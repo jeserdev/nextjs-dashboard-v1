@@ -33,7 +33,7 @@ export default async function CardWrapper() {
       <Card title="Total Invoices" value={numberOfInvoices} type="invoices" />
       <Card
         title="Total Customers"
-        value={numberOfCustomers}
+        value={numberOfCustomers}   
         type="customers"
       /> 
     </>
